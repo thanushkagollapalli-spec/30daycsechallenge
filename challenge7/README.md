@@ -14,4 +14,4 @@
 14. Calculate Target = (R % N) + 1
 15. Output all one-based positions of the target ID and its occurrence count
 16. Print the count of out-of-order pairs
-17. End
+17. stop
